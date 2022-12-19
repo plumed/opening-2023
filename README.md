@@ -4,9 +4,9 @@ Do you want to be part of the next revolution? We are opening a position for PLU
 
 The position will be devoted to the maintenance and development of PLUMED, including: automation, documentation, interfacing with scripting languages, and migration on hybrid architectures.
 
-The ideal candidate will have a deep knowledge of C++ and Python, experience in the development of open source software (GitHub and GitLab contributions will be assessed). Knowledge of the PLUMED core code and of GPU programming will be also considered. A PhD or another post-lauream title will be required.
+The ideal candidate will have a deep knowledge of C++ and Python, experience in the development of open source software (GitHub and GitLab contributions will be assessed). Knowledge of the PLUMED core code and of GPU programming will be also considered. A PhD or another post-lauream title will be required. Work will be performed in closed sinergy with other PLUMED developers and with PLUMED used community.
 
-Approximate salary will be approximately 2kE/month after taxes, with a significant increase for candidates with fiscal residence outside Italy in the past 2 years (more info later on this point).
+Salary will be approximately 2kEUR / month after taxes, with a significant increase for candidates with fiscal residence outside Italy in the past 2 years (more info later on this point).
 
 The official opening will be out in a few weeks. A link to the official application form will be added here when available. The expected starting date is March 1st, 2023.
 
