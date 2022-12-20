@@ -1,6 +1,6 @@
 # Opening for a PLUMED developer position
 
-Do you want to be part of the next revolution? We are opening a full time position for PLUMED software development based at [SISSA (Trieste, Italy)](https://www.sissa.it). The openining will be for a "Tecnologo" position funded by the Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing.
+Do you want to be part of the next revolution? We are opening a full time position for PLUMED software development based at [SISSA (Trieste, Italy)](https://www.sissa.it). The openining will be for a "Tecnologo" position funded by the "Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing".
 
 The position will be devoted to the maintenance and development of PLUMED, including: automation, documentation, interfacing with scripting languages, and migration on hybrid architectures.
 
