@@ -8,6 +8,6 @@ The ideal candidate will have a deep knowledge of C++ and Python, experience in 
 
 Salary will be approximately 2kEUR / month after taxes, with a significant increase for candidates with fiscal residence outside Italy in the past 2 years (exact figures and more info on this point in the next few days).
 
-The official opening will be out in a few weeks. A link to the official application form will be added here when available. **The expected starting date is March 1st, 2023**. The position is currently funded for 30 months.
+A link to the official application form will be added here when available. The official opening will be out in a few weeks (approx Jan 13) and stay open for 30 days. The candidates will be evaluated in the next few days. **The expected starting date is March 1st, 2023**. The position is currently funded for 30 months.
 
 Follow this repository for further updates. If you have questions, [open an issue](https://github.com/plumed/opening-2023/issues) or directly contact [Giovanni Bussi](mailto:bussi@sissa.it).
