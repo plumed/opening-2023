@@ -12,6 +12,6 @@ Salary will be approximately 2kEUR / month after taxes, with a significant incre
 
 The official opening is available at [this link](https://www.sissa.it/bandi/procedura-pubblica-di-selezione-titoli-colloquio-copertura-di-n-1-posto-di-tecnologo-tempo-2). Candidates can apply online using [this link](https://pica.cineca.it/sissa/2023-tecn-03/).
 
-The candidates will be evaluated at the end of February. **The expected starting date is March 1st, 2023**. The position is currently funded for 30 months.
+**Deadline for application is Feb 23 at 23:59 CET**. The candidates will be evaluated soon after. The expected starting date is March 1st, 2023. The position is currently funded for 30 months.
 
 Follow this GitHub repository for further updates. If you have questions, [open an issue](https://github.com/plumed/opening-2023/issues) or directly contact [Giovanni Bussi](mailto:bussi@sissa.it).
