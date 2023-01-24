@@ -8,6 +8,8 @@ The ideal candidate will have a deep knowledge of C++ and Python, and experience
 
 Salary will be approximately 2kEUR / month after taxes, with a significant increase for candidates with fiscal residence outside Italy in the past 2 years (exact figures and more info on this point in the next few days).
 
-A link to the official application form will be added here when available. The official opening will be out in a few weeks (approx Jan 13) and stay open for 30 days. The candidates will be evaluated in the next few days. **The expected starting date is March 1st, 2023**. The position is currently funded for 30 months.
+A link to the official application form will be added here when available. The official opening is available at [this link](https://www.sissa.it/bandi/procedura-pubblica-di-selezione-titoli-colloquio-copertura-di-n-1-posto-di-tecnologo-tempo-2). Candidates can apply online using [this link](https://pica.cineca.it/sissa/2023-tecn-03/).
+
+The candidates will be evaluated at the end of February. **The expected starting date is March 1st, 2023**. The position is currently funded for 30 months.
 
 Follow this repository for further updates. If you have questions, [open an issue](https://github.com/plumed/opening-2023/issues) or directly contact [Giovanni Bussi](mailto:bussi@sissa.it).
